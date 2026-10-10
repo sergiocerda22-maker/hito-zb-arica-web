@@ -1,0 +1,1 @@
+{"name": "Hito ZB Arica", "short_name": "Hito", "start_url": "/hito-zb-arica-web/", "scope": "/hito-zb-arica-web/", "display": "standalone", "background_color": "#F3F4F0", "theme_color": "#C8102E", "icons": [{"src": "icon-192.png", "sizes": "192x192", "type": "image/png"}, {"src": "icon-512.png", "sizes": "512x512", "type": "image/png"}]}
